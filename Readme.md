@@ -1,6 +1,7 @@
 ## Hi I'm Amal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Amaljanan 
+I'm Amaljanan working as a SAP Hybris developer.
+I'm always excited to work in a Challenging position which, with responsibilities presents new challenges every day scope for learning, leading and improving the quality and process while contributing.
 
 :mailbox: Reach me out!
 
@@ -9,7 +10,7 @@ I'm Amaljanan
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @Pit solutions
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+
 <!-- - 🤔 I’m looking for help with Outstanding Video ideas. -->
 - 📫 How to reach me: amaljanan333@gmail.com.
 <!-- - 😄 Pronouns: CoderOne, Ipenywis, islempenywis. -->
